@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "XBZgV3E+O83S2aCPcSNt9F4KNz5zy9Q4f0NFbbxD4v71WmI2IWEqNzdDkU0UOpPCNAz6Umg64RdS0qzQ/ME0ZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\igti-api-net\\igti-api-net.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ilegra-0669\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ilegra-0669\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ilegra-0669\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\ilegra-0669\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\ilegra-0669\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\ilegra-0669\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,7 @@
+C:\Projetos\igti-api-net\obj\Debug\net5.0\igti-api-net.csprojAssemblyReference.cache
+C:\Projetos\igti-api-net\obj\Debug\net5.0\igti-api-net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\igti-api-net\obj\Debug\net5.0\igti-api-net.AssemblyInfoInputs.cache
+C:\Projetos\igti-api-net\obj\Debug\net5.0\igti-api-net.AssemblyInfo.cs
+C:\Projetos\igti-api-net\obj\Debug\net5.0\igti-api-net.csproj.CoreCompileInputs.cache
+C:\Projetos\igti-api-net\obj\Debug\net5.0\igti-api-net.MvcApplicationPartsAssemblyInfo.cs
+C:\Projetos\igti-api-net\obj\Debug\net5.0\igti-api-net.MvcApplicationPartsAssemblyInfo.cache
