@@ -199,11 +199,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\igti-api-net\\igti-api-net.csproj",
+      "projectUniqueName": "C:\\Projetos\\igti-api-net\\API\\igti-api-net.csproj",
       "projectName": "igti-api-net",
-      "projectPath": "C:\\Projetos\\igti-api-net\\igti-api-net.csproj",
+      "projectPath": "C:\\Projetos\\igti-api-net\\API\\igti-api-net.csproj",
       "packagesPath": "C:\\Users\\ilegra-0669\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\igti-api-net\\obj\\",
+      "outputPath": "C:\\Projetos\\igti-api-net\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

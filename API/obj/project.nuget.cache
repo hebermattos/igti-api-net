@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XBZgV3E+O83S2aCPcSNt9F4KNz5zy9Q4f0NFbbxD4v71WmI2IWEqNzdDkU0UOpPCNAz6Umg64RdS0qzQ/ME0ZQ==",
+  "dgSpecHash": "poNmgjvftOoZeXgWGK2UBxrd+3Ou59P1Qk80auywmJ5gjl0U2r9C9YJvxNeLEpbftsu6v4rxPi6RDLNritmOIg==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\igti-api-net\\igti-api-net.csproj",
+  "projectFilePath": "C:\\Projetos\\igti-api-net\\API\\igti-api-net.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ilegra-0669\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\ilegra-0669\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
